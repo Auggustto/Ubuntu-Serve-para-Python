@@ -503,7 +503,6 @@ importantes.
 <details>
 <summary>3° Configurando Ubuntu-Server para API-Flask </summary>
 <br>
-## Configurando Ubuntu-Server para API-Flask
 
 ### **Pré-requisitos**
 
@@ -587,7 +586,7 @@ Em seguida, vamos instalar o Flask e o Gunicorn:
 pip install gunicorn flask
 ```
 
-### [Criando um app de exemplo](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-20-04-pt#criando-um-app-de-exemplo)
+### Criando um app de exemplo
 
 Agora que você tem o Flask disponível, você pode criar um aplicativo
 simples. O Flask é um microframework. Ele não inclui muitas das
